@@ -1,0 +1,13 @@
+*{background-color: lightblue;}
+
+#title{
+    text-align: center;
+}
+
+#description{
+    text-align: center;
+}
+#survey-form{
+  margin: 0 auto;
+  width: 250px;
+}
